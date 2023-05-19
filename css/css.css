@@ -1,0 +1,13 @@
+.img-round {
+    widht:140px;
+    height: 180px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+.left-section {
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}

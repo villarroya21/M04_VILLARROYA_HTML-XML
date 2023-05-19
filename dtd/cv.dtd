@@ -1,0 +1,23 @@
+<!ELEMENT curriculums (curriculum)>
+<!ELEMENT curriculum (datos_personales, formacio_academica, idiomes, experiencia_laboral, habilidades_tecnicas)>
+<!ELEMENT datos_personales (Nom, Edad, Correu)>
+<!ELEMENT Nom (#PCDATA)>
+<!ELEMENT Edad (#PCDATA)>
+<!ELEMENT Correu (#PCDATA)>
+<!ELEMENT formacio_academica (Dades_Academiques)>
+<!ELEMENT Dades_Academiques (Institut, Data)>
+<!ELEMENT Institut (#PCDATA)>
+<!ELEMENT Data (#PCDATA)>
+<!ELEMENT idiomes (llengues | nivell | Nivell)+>
+<!ELEMENT llengues (#PCDATA)>
+<!ELEMENT nivell (#PCDATA)>
+<!ELEMENT Nivell (#PCDATA)>
+<!ELEMENT experiencia_laboral (Experiencia+)>
+<!ELEMENT Experiencia (lloc_de_treball, Empresa, Data_inici, Data_final)>
+<!ELEMENT lloc_de_treball (#PCDATA)>
+<!ELEMENT Empresa (#PCDATA)>
+<!ELEMENT Data_inici (#PCDATA)>
+<!ELEMENT Data_final (#PCDATA)>
+<!ELEMENT habilidades_tecnicas (habilitats)>
+<!ELEMENT habilitats (Nom_habilitat, Nivell)>
+<!ELEMENT Nom_habilitat (#PCDATA)>

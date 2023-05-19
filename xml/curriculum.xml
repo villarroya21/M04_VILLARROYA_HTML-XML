@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslvillarroya.xsl"?>
+<!DOCTYPE curriculums SYSTEM "../dtd/cv.dtd">
+<curriculums>
+<curriculum>
+    <datos_personales>
+        
+            <Nom> Sergi Villarroya Caballer</Nom>
+            <Edad> 25 años</Edad>
+            <Telefon> 659896566</Telefon>
+            <Correu> sergivillarroya@iesmontsia.org</Correu>
+        
+    </datos_personales>
+    <formacio_academica>
+        <Dades_Academiques>
+            <Institut> Ies Alfacs</Institut>
+            <Data> 2018</Data>
+            <Cicle> Estudis secundaris</Cicle>
+        </Dades_Academiques>
+        <Dades_Academiques>
+            <Institut> CUltius Marins IRTA</Institut>
+            <Data>2019</Data>
+            <Cicle>Grau Mitja</Cicle>
+        </Dades_Academiques>
+        <Dades_Academiques>
+            <Institut> INS MONTSIA</Institut>
+            <Data>2020</Data>
+            <Cicle>Grau mitja i superior</Cicle>
+        </Dades_Academiques>
+    </formacio_academica>
+    <idiomes>
+    <idioma>
+        <llengues>Catala</llengues>
+        <nivell>Nivell: Alt</nivell>
+    </idioma>
+    <idioma>
+
+        <llengues>Castella</llengues>
+        <nivell>Nivell: Alt</nivell>
+</idioma>
+<idioma>
+        <llengues>Angles</llengues>
+        <Nivell>Nivell: Mig</Nivell>
+        </idioma>
+        <idioma>
+        <llengues>Françes</llengues>
+        <Nivell>Nivell: Baix</Nivell>
+    </idioma>
+    </idiomes>
+
+    <experiencia_laboral>
+        <Experiencia>
+            <lloc_de_treball>Ajudant de cuina:</lloc_de_treball>
+            <Empresa>Restaurant la Casa Vella</Empresa>
+            <Data_inici>1-1-1</Data_inici>
+            <Data_final>2-2-2</Data_final>
+        </Experiencia>
+        <Experiencia>
+            <lloc_de_treball>Ajudant de cuina:</lloc_de_treball>
+            <Empresa>Restaurant Esportiu Jony Montanyes</Empresa>
+            <Data_inici>1-1-1</Data_inici>
+            <Data_final>2-2-2</Data_final>
+        </Experiencia>
+        <Experiencia>
+            <lloc_de_treball>Mozo de almacen</lloc_de_treball>
+            <Empresa>DeltaMar</Empresa>
+            <Data_inici>1-1-1</Data_inici>
+            <Data_final>2-2-2</Data_final>
+        </Experiencia>
+    </experiencia_laboral>
+    <habilitats_tecniques>
+        <habilitats>
+            <Nom_habilitat>Jugar a videojocs</Nom_habilitat>
+            <Nivell>Alt</Nivell>
+        </habilitats>
+        <habilitats>
+            <Nom_habilitat>Programacio</Nom_habilitat>
+            <Nivell>Molt baix</Nivell>
+        </habilitats>
+        <habilitats>
+            <Nom_habilitat>Sistemes operatius en xarxa</Nom_habilitat>
+            <Nivell>Alt</Nivell>
+        </habilitats>
+        <habilitats>
+            <Nom_habilitat>Xarxes Locals</Nom_habilitat>
+            <Nivell>Alt</Nivell>
+        </habilitats>
+    </habilitats_tecniques>
+</curriculum>
+</curriculums>
